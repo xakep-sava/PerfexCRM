@@ -4053,6 +4053,6 @@ $lang['csv_export_to_date']       = 'По дату';
 $lang['csv_export_button']        = 'Экспортировать';
 
 # 3.4.1
-$lang['clear_queue'] = 'Clear Queue';
-$lang['email_queue_cleared'] = 'Email queue cleared successfully';
-$lang['proposal_auto_convert_leads_to_client_on_client_accept'] = 'Auto convert leads to clients when proposal is accepted';
+$lang['clear_queue'] = 'Очистить очередь';
+$lang['email_queue_cleared'] = 'Очередь писем успешно очищена';
+$lang['proposal_auto_convert_leads_to_client_on_client_accept'] = 'Автоматически конвертировать лиды в клиентов при принятии предложения';
